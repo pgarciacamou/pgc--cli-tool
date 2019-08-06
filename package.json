@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "mvp cli tool that prints hello world",
   "main": "index.js",
+  "bin": "bin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
