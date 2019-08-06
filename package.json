@@ -1,0 +1,19 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "mvp cli tool that prints hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgarciacamou/pgc--cli-tool.git"
+  },
+  "author": "Pablo Garcia <pgarciacamou@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgarciacamou/pgc--cli-tool/issues"
+  },
+  "homepage": "https://github.com/pgarciacamou/pgc--cli-tool#readme"
+}
